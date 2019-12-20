@@ -1,0 +1,11 @@
+C:\Users\BestBy\Desktop\projects\Quiz2020_Solver ByDeso\Quiz2020_Solver ByDeso\bin\Debug\Quiz2020_Solver ByDeso.exe.config
+C:\Users\BestBy\Desktop\projects\Quiz2020_Solver ByDeso\Quiz2020_Solver ByDeso\bin\Debug\Quiz2020_Solver ByDeso.exe
+C:\Users\BestBy\Desktop\projects\Quiz2020_Solver ByDeso\Quiz2020_Solver ByDeso\bin\Debug\Quiz2020_Solver ByDeso.pdb
+C:\Users\BestBy\Desktop\projects\Quiz2020_Solver ByDeso\Quiz2020_Solver ByDeso\bin\Debug\Quiz2020_Solver ByDeso.xml
+C:\Users\BestBy\Desktop\projects\Quiz2020_Solver ByDeso\Quiz2020_Solver ByDeso\obj\Debug\Quiz2020_Solver ByDeso.vbprojResolveAssemblyReference.cache
+C:\Users\BestBy\Desktop\projects\Quiz2020_Solver ByDeso\Quiz2020_Solver ByDeso\obj\Debug\Quiz2020_Solver_ByDeso.Form1.resources
+C:\Users\BestBy\Desktop\projects\Quiz2020_Solver ByDeso\Quiz2020_Solver ByDeso\obj\Debug\Quiz2020_Solver_ByDeso.Resources.resources
+C:\Users\BestBy\Desktop\projects\Quiz2020_Solver ByDeso\Quiz2020_Solver ByDeso\obj\Debug\Quiz2020_Solver ByDeso.vbproj.GenerateResource.Cache
+C:\Users\BestBy\Desktop\projects\Quiz2020_Solver ByDeso\Quiz2020_Solver ByDeso\obj\Debug\Quiz2020_Solver ByDeso.exe
+C:\Users\BestBy\Desktop\projects\Quiz2020_Solver ByDeso\Quiz2020_Solver ByDeso\obj\Debug\Quiz2020_Solver ByDeso.xml
+C:\Users\BestBy\Desktop\projects\Quiz2020_Solver ByDeso\Quiz2020_Solver ByDeso\obj\Debug\Quiz2020_Solver ByDeso.pdb
